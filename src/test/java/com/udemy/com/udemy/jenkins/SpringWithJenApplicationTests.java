@@ -15,8 +15,8 @@ class SpringWithJenApplicationTests {
 	void contextLoads() {
 		
 
-		logger.info("I dont see it starting");
-		logger.info("Teset starting");
+		logger.info("I do see it starting");
+		logger.info("Test starting");
 		assertEquals(true,true);
 		
 	}
