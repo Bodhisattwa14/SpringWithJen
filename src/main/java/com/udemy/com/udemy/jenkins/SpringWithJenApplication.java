@@ -13,6 +13,7 @@ public class SpringWithJenApplication {
 	public static void main(String[] args) {
 		 
 		 logger.info("Started to run");
+		 logger.info("Heyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy");
 		 
 		SpringApplication.run(SpringWithJenApplication.class, args);
 	}
